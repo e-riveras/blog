@@ -1,8 +1,8 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2026-01-12"
-categories: [news]
+title: "The Value of Domain Experience for new Data Scientist"
+author: "Eduardo Rivera"
+date: "2026-01-15"
+categories: [labs]
 ---
 
 This is the first post in a Quarto blog. Welcome!
