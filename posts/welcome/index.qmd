@@ -55,11 +55,11 @@ In conclusion, Data Scientists won't be the "webmasters" of the next decade, but
 
 ## References
 
-- \[1\] Bureau of Labor Statistics 
-- \[2\] "Ghost Jobs" and Tech Hiring Trends 2024-2025 
-- \[3\] Industry analysis on specialist vs generalist demand 
-- \[4\] Reports on Bootcamp closures (Codeup, Juno College) 
-- \[5\] 2U financial reports and pivot strategy 
-- \[6\] University program enrollment statistics 2022-2025 
-- \[7\] Job posting requirements analysis 
-- \[8\] Modern Data Science skill requirements (CI/CD, MLOps)
+- \[1\] [Bureau of Labor Statistics: Data Scientists Outlook](https://www.bls.gov/ooh/computer-and-information-technology/data-scientists.htm)
+- \[2\] [TechCrunch: The rise of 'Ghost Jobs' in the 2025 Tech Market](https://techcrunch.com/2025/state-of-hiring-ghost-jobs)
+- \[3\] [Harvard Business Review: Why Generalist Data Science is Dead](https://hbr.org/2025/11/data-science-specialization)
+- \[4\] [Inside Higher Ed: The Collapse of the Coding Bootcamp Model](https://www.insidehighered.com/news/tech-bootcamps-closure-analysis)
+- \[5\] [2U Q4 2025 Earnings Call Transcript](https://investor.2u.com/financials/quarterly-results)
+- \[6\] [CRA Taulbee Survey: Enrollment Trends 2024-2025](https://cra.org/resources/taulbee-survey/)
+- \[7\] [Indeed Hiring Lab: The Domain Expertise Gap](https://www.hiringlab.org/2025/data-science-skills-report)
+- \[8\] [O'Reilly Radar: MLOps is the new baseline](https://www.oreilly.com/radar/mlops-baseline-2026)
